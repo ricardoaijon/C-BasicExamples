@@ -1,0 +1,8 @@
+e:\users\evangelion01\documents\visual studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\bin\Debug\ConsoleApplicationIntitucion.exe.config
+e:\users\evangelion01\documents\visual studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\bin\Debug\ConsoleApplicationIntitucion.exe
+e:\users\evangelion01\documents\visual studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\bin\Debug\ConsoleApplicationIntitucion.pdb
+e:\users\evangelion01\documents\visual studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\obj\Debug\ConsoleApplicationIntitucion.csprojResolveAssemblyReference.cache
+e:\users\evangelion01\documents\visual studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\obj\Debug\ConsoleApplicationIntitucion.exe
+e:\users\evangelion01\documents\visual studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\obj\Debug\ConsoleApplicationIntitucion.pdb
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\bin\Debug\Newtonsoft.Json.dll
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucion\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\ConsoleApplicationIntitucionTests.dll
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\ConsoleApplicationIntitucionTests.pdb
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\ConsoleApplicationIntitucion.exe
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\Newtonsoft.Json.dll
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\ConsoleApplicationIntitucion.pdb
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\bin\Debug\Newtonsoft.Json.xml
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\obj\Debug\ConsoleApplicationIntitucionTests.csprojResolveAssemblyReference.cache
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\obj\Debug\ConsoleApplicationIntitucionTests.dll
+E:\Users\evangelion01\Documents\Visual Studio 2015\Projects\ConsoleApplicationIntitucion\ConsoleApplicationIntitucionTests\obj\Debug\ConsoleApplicationIntitucionTests.pdb
